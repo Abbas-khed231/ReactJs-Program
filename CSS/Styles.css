@@ -1,0 +1,34 @@
+/* body {
+    background-color:;
+} */
+
+
+h1 {
+    margin: 20px;
+    font-size: 35px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+};
+
+img {
+    border: 4px solid black;
+    
+};
+
+.Profile_pic {
+    border-radius: 50%;
+}
+
+#Example {
+    border: 1px solid black;
+}
+
+h3 {
+    font-size: 3rem;
+    padding: 0 10px;
+}
+
+
+
+
+
